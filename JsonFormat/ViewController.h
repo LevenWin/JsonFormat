@@ -8,7 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface ViewController : NSViewController
+@interface ViewController : NSViewController<NSTextViewDelegate>
 @property (nonatomic,retain)NSMutableArray *formatArr;
 @property (strong) IBOutlet NSTextView *textView;
 
