@@ -7,4 +7,4 @@
 ```
 {"id":"1517","title":"2017-03-14 每日精選","url":"http://pic01.bdatu.com/Upload/appsimg/1488961661.jpg","addtime":"2017-03-14 00:04:00","adshow":"NO","fabu":"YES","encoded":"1","amd5":"0046e1be6dfd84dac1689c27a7acc2ae","sort":"1517","ds":"1","timing":"1","timingpublish":"2017-03-14 00:00:00"}
 ```
-![](https://github.com/LevenWin/JsonFormat/raw/master/screen.gif) 
+![](https://github.com/LevenWin/JsonFormat/raw/master/1.gif) 
